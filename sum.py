@@ -1,4 +1,4 @@
 a = 5
 b = 6
 c = a+b
-print("the sum of variables",c)
+print("the sum of two variables is",c)
